@@ -1,2 +1,2 @@
 # Button-based-7-segment-counter
-7 segment counter conytrolled by push buttons 
+7 segment counter controlled by push buttons 
